@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "nburroughs.github.io"
+  title: "Nicole Burroughs"
   navbar:
     left:
       - href: index.qmd
@@ -17,7 +17,7 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    page-layout: full
 
   
 
