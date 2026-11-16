@@ -1,1 +1,8 @@
 /* css styles */
+.color-band {
+  background-color: #f2dc83; 
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
