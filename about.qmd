@@ -44,8 +44,6 @@ communities, and ultimately what these small microbial ecosystems can
 teach us about the processes that maintain biodiversity in nature.
 :::
 
-![](media/Sr_SEM_image.png){fig-align="center" width="263"}
-
 ::::: {.column-screen .color-band-small}
 :::: column-body
 ::: {style="font-size: 1.25em;"}
@@ -53,6 +51,8 @@ How well can we predict species interaction outcomes?
 :::
 ::::
 :::::
+
+![](images/clipboard-1238554661.png){fig-align="center" width="258"}
 
 When two species rely on similar resources and compete for space, food,
 or other necessities, sometimes they find a way to persist alongside one
@@ -74,8 +74,6 @@ that ecological theory can often predict *whether* competing species
 will coexist, but predicting *how much* of each species will remain is
 considerably more challenging.
 
-![](media/scope_stain.png){fig-align="center" width="245"}
-
 ::::: {.column-screen .color-band-small}
 :::: column-body
 ::: {style="font-size: 1.25em;"}
@@ -85,17 +83,30 @@ to predict it?
 ::::
 :::::
 
+![](images/clipboard-4034190443.png){fig-align="center" width="290"}
+
 Species interactions don't happen in isolation from the environment.
 Temperature, for example, influences how quickly organisms grow, how
 efficiently they use resources, and how well they tolerate competition.
-As the world warms and environmental conditions change, the balance of competition between species can shift, potentially changing which species are able to
-coexist.
+As the world warms and environmental conditions change, the balance of
+competition between species can shift, potentially changing which
+species are able to coexist.
 
-Building on my work predicting the outcomes of pairwise competition, I am investigating how temperature influences both species interactions and our ability to predict them. Using the same five species of pitcher plant protists, I plan to repeat my pairwise competition experiments across a range of temperatures, from the lower to upper limits of temperatures the protists experience in their native habitat. I will use these experiments to measure how competition changes across temperatures and evaluate whether mathematical models parameterized under different environmental conditions can accurately predict the resulting community dynamics.
+Building on my work predicting the outcomes of pairwise competition, I
+am investigating how temperature influences both species interactions
+and our ability to predict them. Using the same five species of pitcher
+plant protists, I plan to repeat my pairwise competition experiments
+across a range of temperatures, from the lower to upper limits of
+temperatures the protists experience in their native habitat. I will use
+these experiments to measure how competition changes across temperatures
+and evaluate whether mathematical models parameterized under different
+environmental conditions can accurately predict the resulting community
+dynamics.
 
-Ultimately, this research asks whether the rules governing species coexistence remain consistent as environmental conditions change, or whether shifts in temperature fundamentally alter the outcome of competition.
-
-![](media/pitchers.png){fig-align="center" width="238"}
+Ultimately, this research asks whether the rules governing species
+coexistence remain consistent as environmental conditions change, or
+whether shifts in temperature fundamentally alter the outcome of
+competition.
 
 ::::: {.column-screen .color-band-small}
 :::: column-body
@@ -104,6 +115,8 @@ How predictable is community assembly?
 :::
 ::::
 :::::
+
+![](images/clipboard-813725099.png){fig-align="center" width="295"}
 
 Biodiversity isn't distributed evenly across a landscape. Even when
 neighboring habitats are physically similar, they can develop
