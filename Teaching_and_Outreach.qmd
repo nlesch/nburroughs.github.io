@@ -16,7 +16,7 @@ Classes Taught:
 North Carolina State University
 
 ::: {style="text-align: center;"}
-MB 252 - General Microbiology,      Lab PB 360 - Ecology Lab
+MB 252 - General Microbiology, Lab PB 360 - Ecology Lab
 :::
 
 ::: {style="font-size: 2em;"}
