@@ -4,3 +4,45 @@ editor:
   markdown: 
     wrap: 72
 ---
+
+::: {style="font-size: 2em;"}
+Teaching
+:::
+
+::: {style="font-size: 1.5em;"}
+Classes Taught:
+:::
+
+North Carolina State University
+
+::: {style="text-align: center;"}
+MB 252 - General Microbiology,      Lab PB 360 - Ecology Lab
+:::
+
+::: {style="font-size: 2em;"}
+Outreach
+:::
+
+::: {style="font-size: 1.5em;"}
+Participatory Science Projects:
+:::
+
+::: {style="text-align: center;"}
+Crowd the Tap (NCSU) - This country-wide citizen science project
+concerned detection of lingering or unreported lead pipe infrastructure,
+particularly in the homes and schools of marginalized groups. The
+project goal included increasing equitable access to safe drinking water
+by generating water quality data through collaboration with individuals,
+high school classes, HBCU alumni, and faith communities.
+
+Native Orchid Growth (Smithsonian Environmental Research Center) - This
+Maryland-based project was centered around the growth of native orchid
+species. We brought materials for growing orchids with thier fungal
+partners or with fertilizer to local schools and coached them on how to
+monitor growth and handle scientific data.
+
+Self-led Field Trip Guide (New River Gorge National Park) - This
+site-based mini-curriculum for upper elementary school park visitors
+allows students to contribute to the park’s preservation and
+conservation efforts as citizen scientists.
+:::
